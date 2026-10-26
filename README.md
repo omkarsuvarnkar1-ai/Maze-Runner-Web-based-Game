@@ -1,10 +1,10 @@
-# Maze Runner
+# Maze-Runner-Web-based-Game
 
 A browser-based maze game and DSA practical project demonstrating DFS maze generation, BFS route checking and hints, and A* enemy pathfinding.
 
 ## Browser game
 
-Open `outputs/maze-runner-3d.html` through a local web server. For example, from the `outputs` folder run:
+Open `outputs/maze-runner-3d.html` through a local web server. From the `outputs` folder, run:
 
 ```powershell
 python -m http.server 8000
